@@ -1,0 +1,100 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.leon {
+  border: 0.3px solid rgba(0, 0, 0, 0.11);
+  padding: 1.6rem 3rem;
+}
+
+.phone-info h4 {
+  font-size: 20.5px;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.phone-info p {
+  font-size: 20.5px;
+  margin-left: 1rem;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.email-info h4 {
+  font-size: 20.5px;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.email-info p {
+  font-size: 20.5px;
+  margin-left: 1rem;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.address-info h4 {
+  font-size: 20.5px;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.address-info p {
+  font-size: 20.5px;
+  margin-left: 1rem;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.hour-info h4 {
+  font-size: 20.5px;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.hour-info p {
+  font-size: 20.5px;
+  margin-left: 1rem;
+  color: rgba(0, 0, 0, 0.651);
+}
+
+.lipd {
+  margin-top: 1rem;
+}
+
+.buking {
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  padding-right: 9rem;
+  padding-left: 0.5rem;
+}
+
+.buking {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.582);
+  border: 0.5px solid rgba(0, 0, 0, 0.582);
+}
+
+.lbs h1 {
+  color: white;
+  font-family: "Oleo Script", system-ui;
+  font-size: 43px;
+  margin-bottom: 1rem;
+}
+
+.lbs p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 25px;
+}
+
+.dollar {
+  background-color: white;
+  font-size: 29px;
+  width: 8rem;
+  padding: 7px 0;
+  display: flex;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position: absolute;
+  left: 4.5rem;
+  top: -1.5rem;
+}
